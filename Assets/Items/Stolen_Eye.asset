@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Stolen_Eye
   m_EditorClassIdentifier: 
   g_name: Eye.
-  g_sprite: {fileID: 21300000, guid: fb984d703db21704b90e2d41cbf62603, type: 3}
+  g_sprite: {fileID: 21300000, guid: 39f89ba7a0d58664084c2f35450e9f43, type: 3}
